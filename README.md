@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🔭 I’m currently working on [NeoProtect](https://github.com/NeoProtect/NeoPlugin)
+- 🔭 I’m currently working on my [DiscordBot](https://github.com/EinfacheSache/ProxyManager)
 
 - 📫 How to reach me **klugetommy@web.de**
 
