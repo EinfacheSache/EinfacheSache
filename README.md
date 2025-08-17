@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🔭 I’m currently working on my [DiscordBot](https://github.com/EinfacheSache/ProxyManager)
+- 🔭 I’m currently working on my [ProxyManager](https://github.com/EinfacheSache/ProxyManager)
 
 - 📫 How to reach me **klugetommy@web.de**
 
